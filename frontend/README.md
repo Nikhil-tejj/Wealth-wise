@@ -20,20 +20,8 @@ WealthWise is a AI-powered financial advisory and education platform that provid
 
 ---
 
-## 🧠 Team & Approach
 
-### Team Name:
-
-`Abhiyantrana-Navonmesakah`
-
-### Team Members:
-
-- Anurag [@AnuragNarsingoju](https://github.com/AnuragNarsingoju)
-- Nagasai [@NagasaiPraneeth](https://github.com/NagasaiPraneeth)
-- Aashish [@Aashish17405](https://github.com/Aashish17405)
-- Abhilash [@AbhiGX](https://github.com/Abhi-GX)
-
-### Your Approach:
+### Approach:
 
 - Focused on making financial literacy accessible to users of all backgrounds
 - Addressed key challenges in financial education through AI-powered assistance
